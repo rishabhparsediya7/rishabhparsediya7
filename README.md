@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishabh Parsediya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **OS Platform in Platform Engineering**
+- 🔭 I’m currently working on **React.js, Next.js and Node.js with Frontend and Backend Both**
 
 - 🌱 I’m currently learning **Kubernetes, Containers, Cloud**
 
-- 👨‍💻 All of my projects are available at [http://rishabhparsediya.netlify.app](http://rishabhparsediya.netlify.app)
+- 👨‍💻 All of my projects are available at [http://rishabhparsediya.vercel.app](http://rishabhparsediya.vercel.app)
 
 - 💬 Ask me about **Java, React.js**
 
